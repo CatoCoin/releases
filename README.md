@@ -2,7 +2,7 @@
 
 Updated : 8/17/2018
 
-The Mac, Windows and linux-cli and linux catocoin-qt wallets now show this additional information in the 'getinfo' command from the debug window or through 'catocoin-cli getinfo'
+The Mac, Windows linux-cli and linux catocoin-qt wallets now show this additional information in the 'getinfo' command from the debug window or through 'catocoin-cli getinfo'
 
     "MN collateral" : nnnn,
     "MN reward" : n.nnnnnn,
