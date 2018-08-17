@@ -8,7 +8,7 @@ The Mac, Windows linux-cli and linux catocoin-qt wallets now show this additiona
     "MN reward" : n.nnnnnn,
     "Staking reward" : n.nnnnnnn
 
-Please note: cato-linux.tar.gz file now contain catcoin-qt for linux
+Please note: cato-linux.tar.gz file now contains catcoin-qt for linux
 
 Port: 33888
 RPC Port: 6082
