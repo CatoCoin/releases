@@ -1,14 +1,14 @@
 # releases
 
-Updated : 8/17/2018
+Updated : 6/2/2019
 
-The Mac, Windows linux-cli and linux catocoin-qt wallets now show this additional information in the 'getinfo' command from the debug window or through 'catocoin-cli getinfo'
+Wallets updated for Planned Fork at block: 495,217 where all running masternoedes are de-activated and new Collateral requirements go into effect. Please see: https://discordapp.com/channels/452458016617267201/464028489939550208/580314958173175809 for new collateral requirements
 
-    "MN collateral" : nnnn,
-    "MN reward" : n.nnnnnn,
-    "Staking reward" : n.nnnnnnn
+You do NOT need to re-index any files for the fork. Insure all of your wallets are updated (linux & windows) before block 495,217
 
-Please note: cato-linux.tar.gz file now contains catcoin-qt for linux
+Please note: cato-linux-binaries.tar.gz file contains catocoind, catocoin-cli amd catcoin-qt for linux
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Port: 33888
 RPC Port: 6082
