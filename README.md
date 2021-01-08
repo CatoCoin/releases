@@ -1,5 +1,7 @@
 # releases
 
+64 Bit Wallet added 1/8/2021
+
 Updated : 6/2/2019
 
 Wallets updated for Planned Fork at block: 495,217 where all running masternoedes are de-activated and new Collateral requirements go into effect. Please see: https://discordapp.com/channels/452458016617267201/464028489939550208/580314958173175809 for new collateral requirements
